@@ -15,10 +15,10 @@
 ## Funcionalidades
 
 - [x] Busca por Cidades
-- [x] Busca de restaurantes a partir da cidade digitado
-- [x] Filtro por avaliações funcionando
+- [x] Busca por restaurantes a partir da cidade digitada
+- [x] Filtro por avaliações
 - [x] Responsividade
-- [ ] Filtro de culinaria e preço medio
+- [ ] Filtro de culinária e preço medio
 
 ## Ferramentas utilizadas
 
@@ -26,12 +26,11 @@
 - [x] Zomato API
 - [x] React-router-dom
 - [x] Axios
-- [x] fortawesome
 
 ## Iniciando a Aplicação
-1. Entre no site `https://developers.zomato.com/api?lang=pt#headline2` da API e gere sua `KEY` .<br />
-2. Adicione sua `KEY` num arquivo `.env` com o seguinte nome `REACT_APP_ZOMATO_API=` caso apareça algum erro adicione sua `KEY` diretamente na pasta `./api/axios`
+1. Acesse o site `https://developers.zomato.com/api?lang=pt#headline2` da API e gere sua `KEY` .<br />
+2. Adicione sua `KEY` num arquivo `.env` com o nome `REACT_APP_ZOMATO_API=` caso seja gerado algum erro, adicione sua `KEY` diretamente na pasta `./api/axios`
 3. Rode `npm install` ou `yarn install`.<br />
 4. Rode `yarn start` e acesse `http://localhost:3000`.<br />
 5. Busque por uma Cidade<br/>
-6. Duvidas? entrar em contato
+6. Em caso de dúvidas, favor entrar em contato
