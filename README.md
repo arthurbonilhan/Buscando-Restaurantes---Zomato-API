@@ -32,5 +32,5 @@
 2. Adicione sua `KEY` num arquivo `.env` com o nome `REACT_APP_ZOMATO_API=` caso seja gerado algum erro, adicione sua `KEY` diretamente na pasta `./api/axios`
 3. Rode `npm install` ou `yarn install`.<br />
 4. Rode `yarn start` e acesse `http://localhost:3000`.<br />
-5. Busque por uma Cidade<br/>
-6. Em caso de dúvidas, favor entrar em contato
+5. Busque por uma Cidade.<br/>
+6. Em caso de dúvidas, favor entrar em contato.
