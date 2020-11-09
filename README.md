@@ -28,7 +28,7 @@
 - [x] Axios
 
 ## Iniciando a Aplicação
-1. Acesse o site `https://developers.zomato.com/api?lang=pt#headline2` da API e gere sua `KEY` .<br />
+1. Acesse o site `https://developers.zomato.com/api?lang=pt#headline2` e gere sua `KEY` .<br />
 2. Adicione sua `KEY` num arquivo `.env` com o nome `REACT_APP_ZOMATO_API=` caso seja gerado algum erro, adicione sua `KEY` diretamente na pasta `./api/axios`
 3. Rode `npm install` ou `yarn install`.<br />
 4. Rode `yarn start` e acesse `http://localhost:3000`.<br />
